@@ -114,9 +114,7 @@ useAbilities() {
     useAbility4()
     useAbility8()
     useAbility5()
-    ;useAbility9() ; need to not press 5 again after Reload happens (Reload is currently 
-
-wasted)
+    ;useAbility9() ; need to not press 5 again after Reload happens (Reload is currently wasted)
     useAbility7()
 
     return
